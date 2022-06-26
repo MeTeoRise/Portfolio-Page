@@ -1,0 +1,12 @@
+{
+  "name": "Next.js",
+  "short_name": "Next.js",
+  "icons": [
+    {
+      "src": "/favicon/favicon.ico",
+      "sizes": "207x256",
+      "type": "image/ico"
+    }
+  ],
+  "display": "standalone"
+}
